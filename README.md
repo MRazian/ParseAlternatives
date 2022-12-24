@@ -1,10 +1,10 @@
 [![FirebaseChat for iOS](http://relatedcode.com/github/header11.png)](http://github.com/relatedcode/FirebaseChat)
 
-##Parse alternatives
+## Parse alternatives
 
 As you may noticed [Parse](http://blog.parse.com/announcements/moving-on) will be fully retired after a year-long period ending on January 28, 2017. Most of us need to find an alternative backend service for our apps. Please help the community to find a great BaaS. Contribution guidelines can be found [here](CONTRIBUTING.md).
 
-###What features are we looking for?
+### What features are we looking for?
 - Data Storage
 - Push Notifications
 - Usage Analytics
@@ -16,7 +16,7 @@ As you may noticed [Parse](http://blog.parse.com/announcements/moving-on) will b
 - Background Jobs
 - Crash Report
 
-###Index
+### Index
 - [General purpose providers](#general-purpose-providers)
 - [Push notification providers](#push-notification-providers)
 - [Analytics providers](#analytics-providers)
@@ -29,7 +29,7 @@ As you may noticed [Parse](http://blog.parse.com/announcements/moving-on) will b
 
 The real-time providers are marked with :zap: icon.
 
-###General purpose providers
+### General purpose providers
 
 - **[AnyPresence](http://www.anypresence.com/solutions/mbaas)**
 The AnyPresence MBaaS is focused on simplifying the process of building enterprise mobile apps that run on many devices, without sacrificing developer flexibility. Users without much mobile experience or time can get started quickly, to assemble and deploy an app through a web-based designer. Advanced developers have access to the source code for all underlying components, to make customizations outside the platform or deploy server components on-premise.
